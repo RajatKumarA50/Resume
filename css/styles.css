@@ -1,0 +1,77 @@
+/* COLOR PALETTE 
+#F7FFF7 - ALMOST WHITE
+#343434 - DARK GRAY ALMOST BLACK
+#2F3061 - DARK BLUE
+#FFE66D - YELLOW
+#A1C6D7 - LIGHT BLUE
+*/
+
+/* Global Styles
+img{
+width:300px;
+}
+header{
+background:#A1C6D7;
+}
+
+/* CONTACT INFORMATION
+----------------------------------------------------------------------------------*/
+.contactinformation{
+background: #E0FFFF;
+}
+
+
+
+/* SUMMARY
+----------------------------------------------------------------------------------*/
+.summary{
+background:#FFE66D;
+} 
+
+
+
+
+/* EDUCATION
+----------------------------------------------------------------------------------*/
+.education{
+background: #A1C6D7;
+}
+
+
+
+
+
+/* SKILLS
+----------------------------------------------------------------------------------*/
+
+.skills{
+background: #FFA500;
+}
+
+
+
+
+/* PROJECTS
+----------------------------------------------------------------------------------*/
+.projects{
+background: #F7FFF7;
+} 
+
+
+
+
+
+/* CERTIFICATES
+----------------------------------------------------------------------------------*/
+.certificates{
+background: #FFE5CC;
+}
+
+
+
+
+/* ACTIVITIES
+----------------------------------------------------------------------------------*/
+.activities{
+background: #FFCCE5;
+}
